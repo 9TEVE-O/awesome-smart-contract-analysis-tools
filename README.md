@@ -40,7 +40,7 @@ M. di Angelo and G. Salzer, "[A Survey of Tools for Analyzing Ethereum Smart Con
 + [SolAnalyzer](https://github.com/EricR/solanalyzer) - Archived
 + [solhint](https://github.com/protofire/solhint?tab=readme-ov-file)
 + [SolidityCheck](https://github.com/xf97/SolidityCheck)
-+ [SolMet](SolMet-Solidity-parser)
++ [SolMet](https://github.com/sola-st/SolMet)
 + [EthIR](https://github.com/costa-group/EthIR)
 + [HoneyBadger](https://github.com/christoftorres/HoneyBadger?tab=readme-ov-file)
 + [Osiris](https://github.com/christoftorres/Osiris)
